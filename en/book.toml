@@ -1,0 +1,12 @@
+[book]
+title = "Taller GQL — Rust Migration"
+authors = ["Taller"]
+language = "en"
+src = "src"
+
+[build]
+build-dir = "../book/en"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
